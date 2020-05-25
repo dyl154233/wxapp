@@ -1,0 +1,5 @@
+/**index.wxss**/
+image {
+  width: 750rpx;
+  height: 320rpx;
+}

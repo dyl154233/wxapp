@@ -1,0 +1,28 @@
+<!--index.wxml-->
+
+<!-- 轮播图 -->
+<swiper
+  indicator-dots
+  indicator-color="rgba(255,255,255,0.6)"
+  indicator-active-color="#FFFFFF"
+  autoplay
+  interval="1500"
+  circular
+>
+  <swiper-item>
+    <image src="../../uploads/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_3.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_4.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../uploads/slide_5.jpg"></image>
+  </swiper-item>
+</swiper>
+<!-- 轮播图 -->
